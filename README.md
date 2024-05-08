@@ -23,7 +23,7 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 ## Program:
 
-### SOBRL X:
+### SOBEL X:
 ~~~
 import cv2
 import matplotlib.pyplot as plt
